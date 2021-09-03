@@ -1,8 +1,0 @@
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/build/target-lexicon-0561de4acb14f8c6/build_script_build-0561de4acb14f8c6: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/build.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/data_model.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/triple.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/targets.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/build/target-lexicon-0561de4acb14f8c6/build_script_build-0561de4acb14f8c6.d: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/build.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/data_model.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/triple.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/targets.rs
-
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/build.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/data_model.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/triple.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/target-lexicon-0.12.0/src/targets.rs:

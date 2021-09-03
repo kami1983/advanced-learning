@@ -1,1 +1,0 @@
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/libpallet_kitties.rlib: /Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/pallets/kitties/src/lib.rs

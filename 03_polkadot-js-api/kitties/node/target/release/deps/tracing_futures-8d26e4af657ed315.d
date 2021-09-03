@@ -1,9 +1,0 @@
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/tracing_futures-8d26e4af657ed315.rmeta: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/stdlib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/executor/mod.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libtracing_futures-8d26e4af657ed315.rlib: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/stdlib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/executor/mod.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/tracing_futures-8d26e4af657ed315.d: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/stdlib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/executor/mod.rs
-
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/lib.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/stdlib.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/tracing-futures-0.2.5/src/executor/mod.rs:

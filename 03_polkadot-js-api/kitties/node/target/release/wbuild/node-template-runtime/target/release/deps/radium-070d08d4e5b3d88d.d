@@ -1,9 +1,0 @@
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/wbuild/node-template-runtime/target/release/deps/radium-070d08d4e5b3d88d.rmeta: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/macros.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/types.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/wbuild/node-template-runtime/target/release/deps/libradium-070d08d4e5b3d88d.rlib: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/macros.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/types.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/wbuild/node-template-runtime/target/release/deps/radium-070d08d4e5b3d88d.d: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/macros.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/types.rs
-
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/lib.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/macros.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/radium-0.6.2/src/types.rs:

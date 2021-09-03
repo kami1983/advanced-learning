@@ -1,9 +1,0 @@
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/chacha20poly1305-40cbf25f06958bd1.rmeta: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/cipher.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/xchacha20poly1305.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libchacha20poly1305-40cbf25f06958bd1.rlib: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/cipher.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/xchacha20poly1305.rs
-
-/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/chacha20poly1305-40cbf25f06958bd1.d: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/cipher.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/xchacha20poly1305.rs
-
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/lib.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/cipher.rs:
-/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/chacha20poly1305-0.6.0/src/xchacha20poly1305.rs:
