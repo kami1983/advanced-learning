@@ -1,0 +1,10 @@
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/which-082428f391da1256.rmeta: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/checker.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/error.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/finder.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libwhich-082428f391da1256.rlib: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/checker.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/error.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/finder.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/which-082428f391da1256.d: /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/lib.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/checker.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/error.rs /Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/finder.rs
+
+/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/lib.rs:
+/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/checker.rs:
+/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/error.rs:
+/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/which-4.1.0/src/finder.rs:

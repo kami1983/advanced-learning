@@ -1,0 +1,9 @@
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/substrate_build_script_utils-4a69c56e40b3df5b.rmeta: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/version.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/git.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libsubstrate_build_script_utils-4a69c56e40b3df5b.rlib: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/version.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/git.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/substrate_build_script_utils-4a69c56e40b3df5b.d: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/version.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/git.rs
+
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/lib.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/version.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/utils/build-script-utils/src/git.rs:

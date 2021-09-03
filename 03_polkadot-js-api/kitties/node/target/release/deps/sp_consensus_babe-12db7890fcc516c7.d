@@ -1,0 +1,9 @@
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/sp_consensus_babe-12db7890fcc516c7.rmeta: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/digests.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/inherents.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libsp_consensus_babe-12db7890fcc516c7.rlib: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/digests.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/inherents.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/sp_consensus_babe-12db7890fcc516c7.d: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/digests.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/inherents.rs
+
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/lib.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/digests.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/primitives/consensus/babe/src/inherents.rs:

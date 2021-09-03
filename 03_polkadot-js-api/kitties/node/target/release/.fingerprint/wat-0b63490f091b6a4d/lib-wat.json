@@ -1,0 +1,1 @@
+{"rustc":10368881109578526382,"features":"[]","target":8999590421362568125,"profile":2285152228202085614,"path":5379295591750751302,"deps":[[6484330385766094824,"wast",false,8104793899415340587]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/wat-0b63490f091b6a4d/dep-lib-wat"}}],"rustflags":[],"metadata":8299229684905882466,"config":0,"compile_kind":0}

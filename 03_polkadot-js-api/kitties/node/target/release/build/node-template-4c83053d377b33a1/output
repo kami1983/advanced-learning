@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=3.0.0-3e2a8d4-x86_64-macos
+cargo:rerun-if-changed=/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/.git/HEAD
+cargo:rerun-if-changed=/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/.git/refs/heads/main
+

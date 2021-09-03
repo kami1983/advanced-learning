@@ -1,0 +1,10 @@
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/sc_offchain-394085faeb8ca5ae.rmeta: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/http.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/timestamp.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libsc_offchain-394085faeb8ca5ae.rlib: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/http.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/timestamp.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/sc_offchain-394085faeb8ca5ae.d: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/http.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/timestamp.rs
+
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/lib.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/http.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/client/offchain/src/api/timestamp.rs:

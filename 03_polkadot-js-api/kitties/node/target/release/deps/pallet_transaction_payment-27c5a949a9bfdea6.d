@@ -1,0 +1,9 @@
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/pallet_transaction_payment-27c5a949a9bfdea6.rmeta: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/payment.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/types.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/libpallet_transaction_payment-27c5a949a9bfdea6.rlib: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/payment.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/types.rs
+
+/Users/mac/work-files/coding/git-files/paritytech-learning/advanced-learning/03_polkadot-js-api/kitties/node/target/release/deps/pallet_transaction_payment-27c5a949a9bfdea6.d: /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/lib.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/payment.rs /Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/types.rs
+
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/lib.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/payment.rs:
+/Users/mac/.cargo/git/checkouts/substrate-7e08433d4c370a21/83808aa/frame/transaction-payment/src/types.rs:

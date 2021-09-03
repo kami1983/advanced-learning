@@ -1,0 +1,2 @@
+cargo:rustc-cfg=feature="x86"
+cargo:rerun-if-changed=/Users/mac/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/cranelift-codegen-0.74.0/build.rs
