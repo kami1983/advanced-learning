@@ -89,7 +89,6 @@ export default function Kitties (props) {
 
   // 第一个参数是一个函数在页面刷新的时候和后面状态变更的时候被执行
   useEffect(populateKitties, [kitties_obj_list, owner_obj_list])
-  // useEffect(populateKitties, [skittyIndex, skittiesList, sownersList])
 
   return <Grid.Column width={16}>
     <h1>小毛孩</h1>
